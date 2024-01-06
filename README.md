@@ -1,5 +1,7 @@
 # Pixo Theme
 Pixo is a Retro Styled Theme for CTFd which consists of numerous features like OLD CRT like flicker, Old school fonts and notification sound which gives the theme a 90s look.
+<br>
+Removed the glitch in the background.
 
 Compatible with CTFd **Version 3.3.0**
 
@@ -19,7 +21,7 @@ Few Screenshots:
 ### Installation Steps:
 Open your Docker container's terminal then insert the following Command:
 ```
-git clone https://github.com/hmrserver/CTFd-theme-pixo.git /opt/CTFd/CTFd/themes/pixo
+git clone https://github.com/ChronosPK/CTFd-theme-pixo.git /opt/CTFd/CTFd/themes/pixo
 ```
 Then Login as Admin and go to: ```Admin Panel > Config > Themes``` and switch the Theme to pixo and Click on Update.
 
@@ -31,5 +33,6 @@ That's it! Now you are good to goo..
 
 
 ## Credits
+- [hmserver](https://github.com/hmrserver/CTFd-theme-pixo.git) For the main theme's version.
 - [Freepik](https://www.freepik.com "Freepik") For their awesome images (Arrow & Coin).
 - [CTFd](https://github.com/CTFd "CTFd") For Creating such an Awesome Platform.
