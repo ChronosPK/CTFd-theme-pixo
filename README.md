@@ -7,8 +7,6 @@ Compatible with CTFd **Version 3.3.0**
 
 Few Screenshots:
   
-  ![Index Page](https://i.imgur.com/lL7zYrg.gif "Index Page")
-  
   ![Challenge Page](https://i.imgur.com/o1XHK2t.png "Challenge Page")
   
   ![Challenge Popup](https://i.imgur.com/7YAQFs5.png "Challenge Popup")
