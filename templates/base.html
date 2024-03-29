@@ -53,11 +53,12 @@
 	<script defer src="{{ url_for('views.themes', path='js/pages/main.js') }}"></script>
 	{% endblock %}
 
-	{% block scripts %}
-	{% endblock %}
-
 	{{ Plugins.scripts }}
 
 	{{ Configs.theme_footer }}
 </body>
+
+{% block scripts %}
+{% endblock %}
+
 </html>
